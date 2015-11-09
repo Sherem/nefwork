@@ -1,0 +1,4 @@
+storage pool-show
+storage pool-destroy wrcpool
+storage pool-show
+exit
